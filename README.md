@@ -1,10 +1,10 @@
-# Vue 3 Todos Tracker
+# Vue 3 To-dos Tracker
 
-A simple todos tracker built with Vue 3, allowing you to add, edit, delete, and complete todos. The application also saves data in the browser's local storage.
+A simple to-dos tracker built with Vue 3, allowing you to add, edit, delete, and complete todos. The application also saves data in the browser's local storage.
 
 ## Deployment
 
-The application is deployed and accessible at the following link: https://todostraking-ammarmohamed.netlify.app/
+The application is deployed and accessible at [Vue To-dos](https://todostraking-ammarmohamed.netlify.app/)
 
 ## Features
 
